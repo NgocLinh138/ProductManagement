@@ -1,0 +1,7 @@
+1, motorbike, 200.0, 99, available
+2, nglinh13, 2810.0, 138, available
+3, dminh28, 1380.0, 281, available
+4, conmua1, 9999.0, 10, not available
+5, conmeo22, 10000.0, 1, available
+6, television, 150.0, 99, not available
+7, notebook, 9000.0, 2, available
